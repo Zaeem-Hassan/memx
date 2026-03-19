@@ -5,7 +5,7 @@
 # 🧠 Memora-AI
 
 **A lightweight, persistent memory layer for AI agents.**  
-Give your agents long-term memory — without the overhead.
+Give your agents memory  without the overhead.
 
 ```bash
 pip install memora-ai
