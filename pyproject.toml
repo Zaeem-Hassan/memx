@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "memx"
+name = "memora-ai"
 version = "0.1.0"
 description = "Lightweight Mem0-like memory layer for AI agents"
 authors = [
@@ -15,7 +15,9 @@ requires-python = ">=3.8"
 dependencies = [
     "openai",
     "faiss-cpu",
-    "numpy"
+    "numpy",
+    "build>=1.2.2.post1",
+    "twine>=6.1.0",
 ]
 
 [project.urls]
