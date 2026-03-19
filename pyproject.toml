@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "memora-ai"
-version = "0.1.1"
+version = "1.0.0"
 description = "Lightweight Mem0-like memory layer for AI agents"
 authors = [
     {name = "Zaeem", email = "zaeemhassan2004@gmail.com"}
