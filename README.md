@@ -1,9 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/pypi/v/memora-ai?color=black&style=flat-square" alt="PyPI version"/>
-<img src="https://img.shields.io/pypi/pyversions/memora-ai?color=black&style=flat-square" alt="Python versions"/>
-<img src="https://img.shields.io/github/license/Zaeem-Hassan/memx?color=black&style=flat-square" alt="License"/>
-<img src="https://img.shields.io/pypi/dm/memora-ai?color=black&style=flat-square" alt="Downloads"/>
+
 
 # 🧠 Memora-AI
 
