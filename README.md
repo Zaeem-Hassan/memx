@@ -19,7 +19,7 @@ pip install memora-ai
 
 LLMs forget everything between conversations. Memora fixes that.
 
-It extracts facts from conversations using an LLM, stores them in a persistent vector + SQLite store, and retrieves the right memories at the right time — so your agents can actually *know* your users.
+It extracts facts from conversations using an LLM, stores them in a persistent vector + SQLite store, and retrieves the right memories at the right time , so your agents can actually *know* your users.
 
 ---
 
